@@ -1,4 +1,4 @@
-package edu.ualr.recyclerviewasignment.model;
+package edu.ualr.recyclerviewassignment.model;
 
 import androidx.annotation.NonNull;
 

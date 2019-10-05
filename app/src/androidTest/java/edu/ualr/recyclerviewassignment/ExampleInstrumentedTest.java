@@ -1,4 +1,4 @@
-package edu.ualr.recyclerviewasignment;
+package edu.ualr.recyclerviewassignment;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("edu.ualr.recyclerviewasignment", appContext.getPackageName());
+        assertEquals("edu.ualr.recyclerviewassignment", appContext.getPackageName());
     }
 }

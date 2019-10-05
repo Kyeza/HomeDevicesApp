@@ -1,4 +1,4 @@
-package edu.ualr.recyclerviewasignment;
+package edu.ualr.recyclerviewassignment;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;

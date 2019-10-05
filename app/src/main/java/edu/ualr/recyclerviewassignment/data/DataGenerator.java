@@ -1,11 +1,11 @@
-package edu.ualr.recyclerviewasignment.data;
+package edu.ualr.recyclerviewassignment.data;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-import edu.ualr.recyclerviewasignment.model.Device;
+import edu.ualr.recyclerviewassignment.model.Device;
 
 /**
  * Created by irconde on 2019-10-04.

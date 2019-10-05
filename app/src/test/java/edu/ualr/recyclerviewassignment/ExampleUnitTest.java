@@ -1,4 +1,4 @@
-package edu.ualr.recyclerviewasignment;
+package edu.ualr.recyclerviewassignment;
 
 import org.junit.Test;
 
