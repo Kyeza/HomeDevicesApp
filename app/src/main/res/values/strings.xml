@@ -27,8 +27,11 @@
     <string name="hour">hour</string>
     <string name="minute">minute</string>
     <!-- Connection status -->
-    <string name="currently_connected">Currently connected</string>
     <string name="recently">Recently</string>
     <string name="long_time_ago">A long time ago</string>
     <string name="never_connected">Never connected</string>
+    <string name="device_image">Device Image</string>
+    <string name="device_status">Device status</string>
+    <string name="time_stamp_img">Timestamp image</string>
+    <string name="device_connection">Device connection image</string>
 </resources>

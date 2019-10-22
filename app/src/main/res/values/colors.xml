@@ -9,9 +9,11 @@
     <color name="grey_10">#e6e6e6</color>
     <color name="grey_20">#cccccc</color>
     <color name="grey_30">#aaaaaa</color>
+    <color name="grey_35">#b5b5b5</color>
     <color name="grey_40">#999999</color>
     <color name="grey_50">#888888</color>
     <color name="grey_60">#666666</color>
+    <color name="grey_70">#6c6c6c</color>
     <color name="grey_80">#37474F</color>
     <color name="grey_90">#263238</color>
     <!-- device status colors -->
@@ -21,4 +23,5 @@
     <color name="rippleStyleWhite">#80ffffff</color>
     <color name="rippleStyleBlack">#8096989a</color>
     <color name="rippleStyleGreen">#80355D2D</color>
+    <color name="white">#ffffff</color>
 </resources>

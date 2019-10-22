@@ -19,4 +19,5 @@
     <dimen name="spacing_xxlarge">50dp</dimen>
     <!-- Drawer width -->
     <dimen name="drawer_width">250dp</dimen>
+    <dimen name="margin_super_tiny">2dp</dimen>
 </resources>
